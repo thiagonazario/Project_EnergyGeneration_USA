@@ -2,34 +2,34 @@
 
 ## Em Construção 🚧
 
-Este projeto visa analisar o panorama da geração de energia nos Estados Unidos. Estamos em uma fase inicial de desenvolvimento, e seu feedback é muito bem-vindo!
+Este projeto visa analisar o panorama da geração de energia nos Estados Unidos. Estamos em uma fase inicial de desenvolvimento, e seu feedback é muito bem-vindo! 🌐💡
 
 ### Tipos de Energias Analisadas
 
-1. **All Fuels:**
-   - Quantidade de energia gerada por todas as fontes.
+1. **All Fuels (Utility-scale) 💼:**
+   - Quantidade de energia gerada por todas as fontes em escala de utilidade.
 
-2. **Carvão (Coal):**
+2. **Carvão (Coal) 🏭:**
    - Quantidade de energia gerada a partir de carvão.
 
-3. **Gás Natural (Natural Gas):**
+3. **Gás Natural (Natural Gas) 🔥:**
    - Quantidade de energia gerada a partir de gás natural.
 
-4. **Nuclear:**
+4. **Nuclear ☢️:**
    - Quantidade de energia gerada por usinas nucleares.
 
-5. **Hidroelétrica Convencional (Conventional Hydroelectric):**
+5. **Hidroelétrica Convencional (Conventional Hydroelectric) 🌊:**
    - Quantidade de energia gerada por usinas hidroelétricas convencionais.
 
-6. **Eólica (Wind):**
+6. **Eólica (Wind) 🍃:**
    - Quantidade de energia gerada por turbinas eólicas.
 
-7. **Solar (All Solar):**
+7. **Solar (All Solar) ☀️:**
    - Quantidade de energia gerada por todas as fontes solares.
 
 ### Abrangência Temporal dos Dados
 
-Os dados abrangem o período de janeiro de 2001 a setembro de 2037, incluindo informações mensais.
+Os dados abrangem o período de janeiro de 2001 a setembro de 2037, incluindo informações mensais. 📅📈
 
 ### Tópicos abordados
 
@@ -55,15 +55,15 @@ Se você estiver interessado em contribuir para este projeto, siga as etapas aba
 1. Fork este repositório.
 2. Crie uma branch com uma breve descrição da sua contribuição: `git checkout -b minha-contribuicao`.
 3. Faça as alterações e commit.
-4. Envie um pull request.
+4. Envie um pull request. 🚀
 
 ### Feedback
 
-Estamos abertos a sugestões, correções e melhorias. Sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
+Estamos abertos a sugestões, correções e melhorias. Sinta-se à vontade para abrir uma issue ou entrar em contato diretamente. 🤝
 
 ### Agradecimentos
 
-Agradecemos a todos que contribuíram ou estão contribuindo para este projeto!
+Agradecemos a todos que contribuíram ou estão contribuindo para este projeto! 👏
 
 ---
 
